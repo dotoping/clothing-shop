@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clothing-shop-web/static/css/main.dbf95c7e.chunk.css",
+    "main.js": "/clothing-shop-web/static/js/main.521f4554.chunk.js",
+    "main.js.map": "/clothing-shop-web/static/js/main.521f4554.chunk.js.map",
+    "runtime-main.js": "/clothing-shop-web/static/js/runtime-main.942f8a98.js",
+    "runtime-main.js.map": "/clothing-shop-web/static/js/runtime-main.942f8a98.js.map",
+    "static/js/2.c20fc070.chunk.js": "/clothing-shop-web/static/js/2.c20fc070.chunk.js",
+    "static/js/2.c20fc070.chunk.js.map": "/clothing-shop-web/static/js/2.c20fc070.chunk.js.map",
+    "index.html": "/clothing-shop-web/index.html",
+    "static/css/main.dbf95c7e.chunk.css.map": "/clothing-shop-web/static/css/main.dbf95c7e.chunk.css.map",
+    "static/js/2.c20fc070.chunk.js.LICENSE.txt": "/clothing-shop-web/static/js/2.c20fc070.chunk.js.LICENSE.txt",
+    "static/media/crwn.3a4e2b15.svg": "/clothing-shop-web/static/media/crwn.3a4e2b15.svg",
+    "static/media/shopping-bag.415f9b21.svg": "/clothing-shop-web/static/media/shopping-bag.415f9b21.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.942f8a98.js",
+    "static/js/2.c20fc070.chunk.js",
+    "static/css/main.dbf95c7e.chunk.css",
+    "static/js/main.521f4554.chunk.js"
+  ]
+}
