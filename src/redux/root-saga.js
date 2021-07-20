@@ -7,3 +7,5 @@ import { cartSagas } from './cart/cart.sagas';
 export default function* rootSaga() {
     yield all([call(shopSagas), call(userSagas), call(cartSagas)]);
 }
+
+//generator redux saga
