@@ -116,3 +116,5 @@ export function* userSagas() {
         call(onSignUpSuccess)
     ]);
 }
+
+//generator redux saga
